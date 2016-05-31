@@ -43,5 +43,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>So we know where you are</string>
+	<key>CFBundleDisplayName</key>
+	<string>Red Light Cameras</string>
 </dict>
 </plist>
